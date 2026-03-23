@@ -18,35 +18,9 @@
 
 ## 🎯 About Me
 
-<table>
-  <tr>
-    <td width="50%">
-
-💼 **Mechanical Engineer** → **Operations Specialist** → **MBA Candidate**
-
-📊 Passionate about leveraging data, Python, and process optimization to drive operational excellence in supply chain management.
-
-🏢 Currently pursuing **MBA in Operations & Analytics** @ NIT Calicut
-
-🌍 Based in **Muvattupuzha, Kerala, India**
-
-    </td>
-    <td width="50%">
-
-🎓 **Strong Foundation:**
-- B.Tech Mechanical Engineering (9.33 CGPA)
-- MBA Operations & Analytics (8.38 CGPA)
-- Cambridge B2 First Certified
-
-💡 **Expertise:**
-- SAP ERP & Procurement Operations
-- Data Analytics & Python
-- Cost Optimization & Vendor Management
-- Cross-functional Leadership
-
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **💼 Mechanical Engineer** → **Operations Specialist** → **MBA Candidate**<br><br>📊 Passionate about leveraging data, Python, and process optimization to drive operational excellence in supply chain management.<br><br>🏢 Currently pursuing **MBA in Operations & Analytics** @ NIT Calicut<br><br>🌍 Based in **Muvattupuzha, Kerala, India** | **🎓 Strong Foundation:**<br>• B.Tech Mechanical Engineering (9.33 CGPA)<br>• MBA Operations & Analytics (8.38 CGPA)<br>• Cambridge B2 First Certified<br><br>**💡 Expertise:**<br>• SAP ERP & Procurement Operations<br>• Data Analytics & Python<br>• Cost Optimization & Vendor Management<br>• Cross-functional Leadership |
 
 ---
 
@@ -140,40 +114,13 @@
 
 ## 🎯 Core Competencies
 
-<table>
-<tr>
-<td>
-
-### 📦 Operations & Procurement
-✅ SAP ERP Material Management  
-✅ Purchase Order Processing  
-✅ Vendor Coordination  
-✅ Cost Optimization  
-✅ Inventory Management  
-
-</td>
-<td>
-
-### 📊 Data & Analytics
-✅ Python Programming  
-✅ Excel Analysis  
-✅ Data Visualization  
-✅ Market Research  
-✅ KPI Tracking  
-
-</td>
-<td>
-
-### 🤝 Leadership & Soft Skills
-✅ Cross-functional Collaboration  
-✅ Stakeholder Management  
-✅ Client-facing Communication  
-✅ Vendor Negotiations  
-✅ Problem Solving  
-
-</td>
-</tr>
-</table>
+| 📦 Operations & Procurement | 📊 Data & Analytics | 🤝 Leadership & Soft Skills |
+|:---|:---|:---|
+| ✅ SAP ERP Material Management | ✅ Python Programming | ✅ Cross-functional Collaboration |
+| ✅ Purchase Order Processing | ✅ Excel Analysis | ✅ Stakeholder Management |
+| ✅ Vendor Coordination | ✅ Data Visualization | ✅ Client-facing Communication |
+| ✅ Cost Optimization | ✅ Market Research | ✅ Vendor Negotiations |
+| ✅ Inventory Management | ✅ KPI Tracking | ✅ Problem Solving |
 
 ---
 
