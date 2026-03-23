@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td width="50%">
-      
+
 💼 **Mechanical Engineer** → **Operations Specialist** → **MBA Candidate**
 
 📊 Passionate about leveraging data, Python, and process optimization to drive operational excellence in supply chain management.
@@ -32,7 +32,7 @@
 
     </td>
     <td width="50%">
-      
+
 🎓 **Strong Foundation:**
 - B.Tech Mechanical Engineering (9.33 CGPA)
 - MBA Operations & Analytics (8.38 CGPA)
@@ -119,8 +119,6 @@
 ### 📊 **Data & Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🏢 **Enterprise Systems**
 ![SAP](https://img.shields.io/badge/SAP%20ERP-0FAADC?style=for-the-badge&logo=sap&logoColor=white)
@@ -134,7 +132,6 @@
 
 ### 📈 **Business Tools**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 </div>
